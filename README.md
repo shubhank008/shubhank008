@@ -1,6 +1,6 @@
 # Shubhank Gaur | Senior Systems Architect & Engineering Leader
 
-I am a multidisciplinary Systems Architect and DevOps Engineer with 14 years of experience designing high-concurrency backends, automating deployment pipelines, and building production-ready applications. I specialize in bridging the gap between complex architectures—whether that is integrating machine learning models (LLMs/CV) into consumer software, or optimizing bare-metal server environments.
+I am a multidisciplinary Systems Architect and DevOps Engineer with 14 years of experience designing high-concurrency backends, automating deployment pipelines, and building production-ready applications. I specialize in bridging the gap between complex architectures, whether that is integrating machine learning models (LLMs/CV) into consumer software, or optimizing bare-metal server environments.
 
 My engineering philosophy is simple: **Build for scale, automate the toil, and optimize for latency.**
 
